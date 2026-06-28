@@ -8,10 +8,10 @@ I am most qualified to create systems for Star Wars Roleplay games, specifically
 
 I am also very skilled in creating game mechanics for simulator games, tycoons, and trend games.
 
-## What I am unable to complete: ❌
+## Possible Issues: ☣️
 
 - Large Scale Gun Systems 🚫
-- Vehicular Frameworks 🚫
+- Vehicular Frameworks 🟨
 
 *I hope to begin working with you soon!*
 *Please check out some of the systems that I have created via my repository!*
